@@ -37,8 +37,8 @@ function no() {
         var currentHeight = y.offsetHeight;
 
         // Set new width and height (you can customize these values)
-        var newWidth = currentWidth + 100; // Increase by 10 pixels
-        var newHeight = currentHeight + 50; // Increase by 5 pixels
+        var newWidth = currentWidth + 150; // Increase by 10 pixels
+        var newHeight = currentHeight + 100; // Increase by 5 pixels
 
         // Update the button size
         y.style.width = newWidth + "px";
