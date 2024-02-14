@@ -9,8 +9,8 @@ function yes() {
     n.style.display = "none";
 }
 var contentArray = [
-    "Are you sure?",
-    "Pookie please",
+    "Are you sure Hiibba?",
+    "Hiibba please",
     "Don't do this to me :(",
     "You're breaking my heart",
     "I'm gonna cry..."
